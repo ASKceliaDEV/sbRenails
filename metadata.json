@@ -1,0 +1,6 @@
+{
+  "name": "Nails by Celia - Press-on Nails Artisanaux",
+  "description": "Boutique en ligne artisanale de press-on nails sur mesure en Algérie. Personnalisation, guide des tailles en millimètres, retrait à Azazga et livraison Yalidine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
